@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ravishxt.netlify.com/](https://ravishxt.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://ravishxt.netlify.com/](ravishxt.netlify.com/)
 
 - 📫 How to reach me **ravishxt@gmail.com**
 
