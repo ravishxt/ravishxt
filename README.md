@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ravishxt/ravishxt/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ravishxt/ravishxt/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
